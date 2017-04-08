@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Smart Irrigation Control</string>
+    <string name="launcher_name">Plant Control</string>
+    <string name="soil_humidity">SOIL MOISTURE</string>
+    <string name="update_humidity">Update Moisture</string>
+    <string name="water_the_plants">Water the plants</string>
+</resources>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="org.mono.projectapp.MainActivity">
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/first"
+        android:padding="@dimen/activity_vertical_margin">
+
+
+            <TextView
+                android:id="@+id/textViewJSON"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="22dp"
+                android:paddingTop="@dimen/activity_vertical_margin"
+                android:textColor="@color/colorAccent"
+                android:textSize="102sp" />
+
+            <TextView
+                android:layout_marginTop="72dp"
+                android:id="@+id/show_event_type"
+                android:layout_marginRight="70dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="right"
+                android:text="%"
+                android:textColor="@color/colorAccent"
+                android:textSize="50sp" />
+
+
+        <TextView
+            android:layout_marginTop="202dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="22sp"
+            android:layout_gravity="center_horizontal"
+            android:text="@string/soil_humidity"
+            android:paddingBottom="@dimen/activity_vertical_margin"
+            android:layout_below="@id/textViewJSON"
+            android:id="@+id/textViewMoisture" />
+        <Button
+            android:layout_marginTop="262dp"
+            android:id="@+id/buttonGet"
+            android:layout_marginRight="20dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginBottom="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/update_humidity"
+            android:textColor="#ffffff"
+            android:backgroundTint="@color/colorPrimary"
+            android:paddingTop="10dp"
+            android:layout_below="@+id/textViewMoisture"
+            />
+
+
+
+    </android.support.v7.widget.CardView>
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+       android:layout_alignParentBottom="true"
+
+        android:layout_marginTop="13dp"
+        android:layout_below="@+id/first"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true">
+
+
+        <TextView
+            android:id="@+id/title"
+            android:layout_alignParentBottom="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="10sp"
+            android:padding="16dp"
+
+            android:text="Activity" />
+
+        <TextView
+            android:layout_marginTop="32dp"
+            android:id="@+id/switchtext"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="@dimen/activity_horizontal_margin"
+            android:paddingRight="@dimen/activity_horizontal_margin"
+            android:text="@string/water_the_plants"
+            android:textSize="22sp" />
+
+        <android.support.v7.widget.SwitchCompat
+            android:id="@+id/toggleswitch"
+            android:layout_marginTop="32dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:paddingLeft="@dimen/activity_horizontal_margin"
+            android:paddingRight="@dimen/activity_horizontal_margin"
+            android:layout_alignParentRight="true"
+            android:layout_alignRight="@id/switchtext" />
+
+    </android.support.v7.widget.CardView>
+
+
+
+</RelativeLayout>

@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\ManajitPal\.android\build-cache\db2caa340b8f9e705d9d6da3ef944ec6ba04ae59\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\ManajitPal\AndroidStudioProjects\ProjectApp\app\build\intermediates\pre-dexed\release\classes_87453e653e65cc153a4b9e096ce7c5cd78f2ee41.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ManajitPal\.android\build-cache\abfdd8a56c8d346959807e0890dfe045f01193a8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\ManajitPal\AndroidStudioProjects\ProjectApp\app\build\intermediates\pre-dexed\release\classes_0f117e62b1aa0a54041d3bfe76949b78b285c0ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ManajitPal\.android\build-cache\cbbed3eb199fcf6fe75f2d732ae5683a8a2c78ea\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ce9112e08a027c8620ae693983e38cdbb9f6371b">
+        <dex dex="C:\Users\ManajitPal\AndroidStudioProjects\ProjectApp\app\build\intermediates\pre-dexed\release\classes_122f08e8c79de4fe0765199206b8bbc154076803.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ManajitPal\.android\build-cache\4874f01f1111c2e4060386a4f2b9416ae04b4b40\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\ManajitPal\AndroidStudioProjects\ProjectApp\app\build\intermediates\pre-dexed\release\classes_832b2ea60ebb5a731c30c3463e60d5efadb8fb12.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ManajitPal\AndroidStudioProjects\ProjectApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\ManajitPal\AndroidStudioProjects\ProjectApp\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_fe254bf34065f74bb7ce571d640ca1ee2a6e1205\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ManajitPal\.android\build-cache\c546ca6387908053a5870efdbf465709e282a3d5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\ManajitPal\AndroidStudioProjects\ProjectApp\app\build\intermediates\pre-dexed\release\classes_16ae0e160d091d774d5afa9f11e029bb8bfdb5b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ManajitPal\.android\build-cache\9b88a34a5d6908f8fdd3fabd63a420d8b7e9eeab\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\ManajitPal\AndroidStudioProjects\ProjectApp\app\build\intermediates\pre-dexed\release\classes_be1401be303fa14693f0a5acc1101dc20c9df2d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ManajitPal\.android\build-cache\376e1508a032c57770b1d1ff2a915c7d1d147c52\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1ac56e5801e986583cbe27f2cce57f626cc7ff93">
+        <dex dex="C:\Users\ManajitPal\AndroidStudioProjects\ProjectApp\app\build\intermediates\pre-dexed\release\classes_9978b4641ba0d8cf87c6a0208523c223e9fdba51.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ManajitPal\.android\build-cache\4a249cfd8036e87f72ffbc66a65c35f5878535a0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\ManajitPal\AndroidStudioProjects\ProjectApp\app\build\intermediates\pre-dexed\release\classes_aa3b050a8ac5414ec10ad07e1a32f9a582cc1b4f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ManajitPal\.android\build-cache\5a2f1392abfacea4d74f924174f79c35c84a2780\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\ManajitPal\AndroidStudioProjects\ProjectApp\app\build\intermediates\pre-dexed\release\classes_b3e18ffd39135b7e5e4ddd091de000a6e6feb120.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ManajitPal\.android\build-cache\d1a213edceb7fa51ddfcea469502210cf0c9c1af\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a61e7010aa7be5da53cd1bc5279630510c9a4912">
+        <dex dex="C:\Users\ManajitPal\AndroidStudioProjects\ProjectApp\app\build\intermediates\pre-dexed\release\classes_41ebc2ca3077515b0a63b25acd53a2aec31d4cb1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ManajitPal\.android\build-cache\001c68cee56f7a5f6146e2e04b4eaf2e2acee118\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
+        <dex dex="C:\Users\ManajitPal\AndroidStudioProjects\ProjectApp\app\build\intermediates\pre-dexed\release\classes_eed1b8e4ef9e16a57d54b39b3f23eef09455df5f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ManajitPal\.android\build-cache\5a2f1392abfacea4d74f924174f79c35c84a2780\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\ManajitPal\AndroidStudioProjects\ProjectApp\app\build\intermediates\pre-dexed\release\internal_impl-24.2.1_8b2dcf5a9eefeb483e72fd337363c3a46f3854de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ManajitPal\.android\build-cache\9b88a34a5d6908f8fdd3fabd63a420d8b7e9eeab\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\ManajitPal\AndroidStudioProjects\ProjectApp\app\build\intermediates\pre-dexed\release\internal_impl-24.2.1_3e7da1febca77cb252e81ed234fada22700ed731.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ManajitPal\.android\build-cache\cc178293e85d3b5ddc62276b45f8115ef128f3e7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3d6951cb416ebf8c66a32b9480808ca247b68344">
+        <dex dex="C:\Users\ManajitPal\AndroidStudioProjects\ProjectApp\app\build\intermediates\pre-dexed\release\classes_2ba4409db486526d03f3fac482ce9b6b20c14226.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ManajitPal\.android\build-cache\72fcfc5601717dc07312717311abb21353e9484d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\ManajitPal\AndroidStudioProjects\ProjectApp\app\build\intermediates\pre-dexed\release\classes_5ad030a4162f8d3c7b885177632b829f5f77c7cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ManajitPal\.android\build-cache\abfdd8a56c8d346959807e0890dfe045f01193a8\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\ManajitPal\AndroidStudioProjects\ProjectApp\app\build\intermediates\pre-dexed\release\internal_impl-24.2.1_ac9b24e1aa8ecc6684c07f4e26e075cacc13c2cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ManajitPal\.android\build-cache\402042688715eb157a9b33f6b1873bf53cdb116c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bd75f9f0296fe220da6d0ad961831b04541c4452">
+        <dex dex="C:\Users\ManajitPal\AndroidStudioProjects\ProjectApp\app\build\intermediates\pre-dexed\release\classes_26530ecd0998ec52465b984cdf16074ca7c3cbc3.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ManajitPal\AndroidStudioProjects\ProjectApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="66e665b5a29f46e33bdbcdb454fa3ba4a0d7f693">
+        <dex dex="C:\Users\ManajitPal\AndroidStudioProjects\ProjectApp\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_d39182286587dbda0a3ecf7b28962cf19ad1cb6a\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ManajitPal\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3.1\ecb6e1f8e4b0e84c4b886c2f14a1500caf309757\gson-2.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="C:\Users\ManajitPal\AndroidStudioProjects\ProjectApp\app\build\intermediates\pre-dexed\release\gson-2.3.1_b4d7a39fd13775882b04dd1cbcb3b37fc5d8bb25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ManajitPal\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\ManajitPal\AndroidStudioProjects\ProjectApp\app\build\intermediates\pre-dexed\release\support-annotations-24.2.1_836ec055b945fcaefef7587d51d4342c7022d6d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ManajitPal\.android\build-cache\4a249cfd8036e87f72ffbc66a65c35f5878535a0\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\ManajitPal\AndroidStudioProjects\ProjectApp\app\build\intermediates\pre-dexed\release\internal_impl-24.2.1_f883726608eb9fce5d2e7a6a7dc9b6497d37b719.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ManajitPal\.android\build-cache\565ad922ca48f03fc990b254b875afdb7d96abc1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75575883f0348fc5d2be85f23bd10b050095cf17">
+        <dex dex="C:\Users\ManajitPal\AndroidStudioProjects\ProjectApp\app\build\intermediates\pre-dexed\release\classes_682f20acf362c70fc5a10e09a05f6f3a71512d04.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ManajitPal\.android\build-cache\3de5df1b80b3dc482a7bb33ef6bad2626531434d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0d5cbbbfe040201c7569478b70a13b58fd11aab4">
+        <dex dex="C:\Users\ManajitPal\AndroidStudioProjects\ProjectApp\app\build\intermediates\pre-dexed\release\classes_2c100ffd6a544a35fd874135dcc317b79a17e9bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ManajitPal\.android\build-cache\85c4daa78c6ba072648e9e97adfaded526fd799f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\ManajitPal\AndroidStudioProjects\ProjectApp\app\build\intermediates\pre-dexed\release\classes_91e147af5afa330ee9659fc0274f3abfa3ae297d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ManajitPal\.android\build-cache\72fcfc5601717dc07312717311abb21353e9484d\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\ManajitPal\AndroidStudioProjects\ProjectApp\app\build\intermediates\pre-dexed\release\internal_impl-24.2.1_1932893555765c7852e67de9fddf1ffa8a8fa92c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ManajitPal\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit\retrofit\1.9.0\a681c044244d9fc375198588297a39ba78028423\retrofit-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a681c044244d9fc375198588297a39ba78028423">
+        <dex dex="C:\Users\ManajitPal\AndroidStudioProjects\ProjectApp\app\build\intermediates\pre-dexed\release\retrofit-1.9.0_48a82b2de5a8224ef8498f76374183fd6c0dabb0.jar" />
+    </item>
+
+</items>

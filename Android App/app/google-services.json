@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "752211502903",
+    "firebase_url": "https://smart-plant-notifications.firebaseio.com",
+    "project_id": "smart-plant-notifications",
+    "storage_bucket": "smart-plant-notifications.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752211502903:android:f0e5d9ecc7356842",
+        "android_client_info": {
+          "package_name": "org.mono.projectapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "752211502903-avb23pbkv66kbst1m6ub0fjq7ko1lmfu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDM2IofbuSZVuSJTclcOplu52A1V7ZH_t8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
